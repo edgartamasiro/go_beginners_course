@@ -1,16 +1,16 @@
 <h1 align="center">GOLANG FOR BEGINNERS</h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/edgartamasiro/dashboard_supermarket_sales">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/edgartamasiro/go_beginners_course">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/edgartamasiro/dashboard_supermarket_sales">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/edgartamasiro/go_beginners_course">
 
   <a href="">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edgartamasiro/dashboard_supermarket_sales">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edgartamasiro/go_beginners_course">
   </a>
 
   <a href="">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/edgartamasiro/dashboard_supermarket_sales">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/edgartamasiro/go_beginners_course">
   </a>
 </p>
 
